@@ -4,4 +4,5 @@ An AFNI/tcsh pipeline for seed based rsfMRI Analysis
 
 <img src ="/Test_Result/Result_pip.png" width="800" height="600" />
 
-<h2> rsfMRI data for the testing of this pipiline was obtained from openfMRI website </h2>
+<h2> rsfMRI data for the testing of this pipiline was obtained from openfMRI website </h2> ("https://openfmri.org/")
+Most function used in this script came from the Brown University website on rsfMRI Analysis ("https://www.brown.edu/carney/mri/researchers/analysis-pipelines/resting-state-fmri")
