@@ -1,6 +1,7 @@
 # AFNI_rsfMRI_pip
 An AFNI/tcsh pipeline for seed based rsfMRI Analysis
 
+<h4> This is the result of the seed based rsfMRI analysis (through the pipeline) using Left Amygdala as the seed </h4>
 
 <img src ="/Test_Result/Result_pip.png" width="800" height="600" />
 
